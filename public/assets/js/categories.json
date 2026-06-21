@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Ceramic World",
+    "categories": [
+      {
+        "id": "c1",
+        "name": "Tiles",
+        "subcategories": ["300x300", "400x400", "300x400", "600x600"]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Premium Tiles",
+    "categories": [
+      {
+        "id": "c2",
+        "name": "Tiles",
+        "subcategories": ["300x400", "600x600", "800x800"]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "StoneCraft",
+    "categories": [
+      {
+        "id": "c3",
+        "name": "Artificial",
+        "subcategories": ["800x2400", "800x3000", "1000x3000"]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "WallDecor",
+    "categories": [
+      {
+        "id": "c4",
+        "name": "Poster",
+        "subcategories": ["6x6", "8x12", "12x18"]
+      }
+    ]
+  }
+]

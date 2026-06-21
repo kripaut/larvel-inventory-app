@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c",
+    "name": "Classic White Tile",
+    "company": "Ceramic World",
+    "category": "Tiles",
+    "subcategory": "300x300",
+    "stock": 250,
+    "price": 32,
+    "gst": 18
+  },
+  {
+    "id": 2,
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f",
+    "name": "Marble Finish Tile",
+    "company": "Ceramic World",
+    "category": "Tiles",
+    "subcategory": "400x400",
+    "stock": 180,
+    "price": 45,
+    "gst": 18
+  },
+  {
+    "id": 3,
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858",
+    "name": "Wooden Texture Tile",
+    "company": "Premium Tiles",
+    "category": "Tiles",
+    "subcategory": "300x400",
+    "stock": 140,
+    "price": 55,
+    "gst": 18
+  },
+  {
+    "id": 4,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
+    "name": "Luxury Vitrified Tile",
+    "company": "Premium Tiles",
+    "category": "Tiles",
+    "subcategory": "600x600",
+    "stock": 95,
+    "price": 95,
+    "gst": 18
+  },
+  {
+    "id": 5,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
+    "name": "Royal Artificial Slab",
+    "company": "StoneCraft",
+    "category": "Artificial",
+    "subcategory": "800x2400",
+    "stock": 15,
+    "price": 1850,
+    "gst": 18
+  },
+  {
+    "id": 6,
+    "image": "https://images.unsplash.com/photo-1494526585095-c41746248156",
+    "name": "Premium Artificial Marble",
+    "company": "StoneCraft",
+    "category": "Artificial",
+    "subcategory": "800x3000",
+    "stock": 0,
+    "price": 2350,
+    "gst": 18
+  },
+  {
+    "id": 7,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
+    "name": "Designer Poster Tile",
+    "company": "WallDecor",
+    "category": "Poster",
+    "subcategory": "6x6",
+    "stock": 150,
+    "price": 120,
+    "gst": 18
+  },
+  {
+    "id": 8,
+    "image": "https://images.unsplash.com/photo-1513694203232-719a280e022f",
+    "name": "Modern Art Poster",
+    "company": "WallDecor",
+    "category": "Poster",
+    "subcategory": "8x12",
+    "stock": 110,
+    "price": 180,
+    "gst": 18
+  },
+  {
+    "id": 9,
+    "image": "https://images.unsplash.com/photo-1484154218962-a197022b5858",
+    "name": "Nature Theme Poster",
+    "company": "WallDecor",
+    "category": "Poster",
+    "subcategory": "12x18",
+    "stock": 90,
+    "price": 260,
+    "gst": 18
+  },
+  {
+    "id": 10,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
+    "name": "Luxury Wall Poster",
+    "company": "WallDecor",
+    "category": "Poster",
+    "subcategory": "12x24",
+    "stock": 75,
+    "price": 350,
+    "gst": 18
+  },
+  {
+    "id": 11,
+    "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a",
+    "name": "DT Syphon",
+    "company": "AquaFlow",
+    "category": "Syphon",
+    "subcategory": "DT",
+    "stock": 85,
+    "price": 450,
+    "gst": 18
+  },
+  {
+    "id": 12,
+    "image": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1",
+    "name": "PAN Syphon",
+    "company": "AquaFlow",
+    "category": "Syphon",
+    "subcategory": "PAN",
+    "stock": 70,
+    "price": 520,
+    "gst": 18
+  },
+  {
+    "id": 13,
+    "image": "https://images.unsplash.com/photo-1584622781564-1d987f7333c1",
+    "name": "Premium Chair Comot",
+    "company": "SanitaryPro",
+    "category": "Chair Comot",
+    "subcategory": "Standard",
+    "stock": 40,
+    "price": 3200,
+    "gst": 18
+  },
+  {
+    "id": 14,
+    "image": "https://images.unsplash.com/photo-1620626011761-996317b8d101",
+    "name": "Wall Mounted Basin",
+    "company": "SanitaryPro",
+    "category": "Wall Basin",
+    "subcategory": "Standard",
+    "stock": 55,
+    "price": 1800,
+    "gst": 18
+  },
+  {
+    "id": 15,
+    "image": "https://images.unsplash.com/photo-1620626011761-996317b8d101",
+    "name": "Square Box Basin",
+    "company": "SanitaryPro",
+    "category": "Box Basin",
+    "subcategory": "Standard",
+    "stock": 35,
+    "price": 2500,
+    "gst": 18
+  },
+  {
+    "id": 16,
+    "image": "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85",
+    "name": "Compact Kitchen Sink",
+    "company": "SteelSink",
+    "category": "Sink",
+    "subcategory": "16x18",
+    "stock": 4,
+    "price": 1500,
+    "gst": 18
+  },
+  {
+    "id": 17,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136",
+    "name": "Classic Steel Sink",
+    "company": "SteelSink",
+    "category": "Sink",
+    "subcategory": "18x21",
+    "stock": 75,
+    "price": 1800,
+    "gst": 18
+  },
+  {
+    "id": 18,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136",
+    "name": "Deep Bowl Sink",
+    "company": "SteelSink",
+    "category": "Sink",
+    "subcategory": "18x24",
+    "stock": 3,
+    "price": 2200,
+    "gst": 18
+  },
+  {
+    "id": 19,
+    "image": "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136",
+    "name": "Premium Double Sink",
+    "company": "SteelSink",
+    "category": "Sink",
+    "subcategory": "18x30",
+    "stock": 45,
+    "price": 3200,
+    "gst": 18
+  }
+]
